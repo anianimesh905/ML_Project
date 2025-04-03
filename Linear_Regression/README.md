@@ -19,8 +19,8 @@ pip install numpy pandas matplotlib
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_folder>
+   git clone <https://github.com/anianimesh905/ML_Project/tree/main/Linear_Regression>
+   cd <Linear_Regression>
    ```
 2. Run the Jupyter Notebook:
    ```bash
